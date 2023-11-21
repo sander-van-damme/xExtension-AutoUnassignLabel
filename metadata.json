@@ -1,0 +1,8 @@
+{
+	"name": "Auto Unassign Label",
+	"author": "Sander Van Damme",
+	"description": "Automatically unassign labels from read articles.",
+	"version": 1.0,
+	"entrypoint": "AutoUnassignLabel",
+	"type": "user"
+}
