@@ -1,2 +1,2 @@
-# xExtension-AutoRemoveLabel
-Automatically remove labels that are not in use.
+# FreshRSS extension: xExtension-AutoUnassignLabel 
+Automatically unassign labels from read articles.
